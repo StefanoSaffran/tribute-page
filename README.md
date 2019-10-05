@@ -1,6 +1,4 @@
-<p align="center">
 # Stephen Hawking tribute page
-</p>
 
 <p align="center">
 Project developed for the section Responsive Web Design Projects
